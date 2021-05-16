@@ -7,6 +7,7 @@
     "import/prefer-default-export": "off",
     "class-methods-use-this": "off",
     "consistent-return": "off",
-    "no-restricted-syntax": "off"
+    "no-restricted-syntax": "off",
+    "@typescript-eslint/no-unused-vars": "off"
   }
 }
